@@ -21,7 +21,7 @@ This node processes user-uploaded masks and base images. It allows you to visual
 - **使用场景:** 方便用户在使用支持图像编辑的AI模型时对图片进行预处理，或者在训练模型时对图片进行自动化标注/处理。
 
 ![ImageMaskingProcessor Preview](assets/node1_preview.png)
-*(Please place your screenshot here / 请在此处放置截图)*
+
 
 ### 2. Image and Mask Resize Pad (图像与遮罩尺寸对齐补全)
 **English:**
